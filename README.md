@@ -3,6 +3,7 @@
 
 _a little girl in the process of acquiring more knowledge about programming languages._
 
-Favorites languajes: 
+# Favorites languajes: 
 
+![2](https://user-images.githubusercontent.com/75511509/101268418-22620200-3728-11eb-94bc-45f6ace4f309.png)
 
